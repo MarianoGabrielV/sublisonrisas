@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Play&family=Sacramento&display=swap');
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: "Indie Flower" ; 
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#inicio{
+    background: linear-gradient(rgba(0,0,0,.10), rgba(0,0,0,.10)), url(../images/Fondo2.jpg);;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
